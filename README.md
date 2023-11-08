@@ -1,0 +1,2 @@
+# usb
+próba törölhető
